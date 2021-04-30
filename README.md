@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @CryptoGraphi
-- 👀 I’m interested in web development, and systems programming
-- 🌱 I’m currently learning web development
+- 👋 Hi, I’m @oliver 
+- 👀 I’m interested in web development, cryptography, and systems programming
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on web applications
 - 📫 How to reach me  oliver.shwaba@gmail.com
 
