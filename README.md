@@ -12,7 +12,7 @@ I am an Electrical Engineering student with a passion for web development.
 ## 💼 Experience
 - Freelance Web Developer
 
-## 🛠 Tech Stack
+## 🛠 Technologies I use.
 - 🔨 HTML
 - 🎨 CSS
 - 💻 PHP
