@@ -20,12 +20,9 @@ I am an Electrical Engineering student with a passion for web development.
 
 
 ## 🚧 Technologies (I'm Learning)
-- 🚀 Go
+
+- 🚀 Java
 - 🖥 C++
-
-
-## 🍴 Side Note.
-- I like to think of programming as a creative process just like creating a new dish. Both require attention to detail, patience, and the ability to experiment and iterate until you have the perfect recipe.
 
 <!---
 CryptoGraphi/CryptoGraphi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
